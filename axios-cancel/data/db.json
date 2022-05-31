@@ -1,0 +1,10 @@
+{
+  "posts": [
+    {
+      "id":1,
+      "name": "Harris",
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ]
+}
